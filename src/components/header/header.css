@@ -1,0 +1,66 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+.header-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #1c1c1c;
+}
+
+.pizza-logo {
+    width: 100px;
+    height: 100px;
+}
+
+.logoWrap {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.mainTitle {
+    color: #fff;
+    font-weight: 100;
+}
+
+.button {
+    background-color:  #08C6F8;
+    color: #fff;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 14px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    border: 1px solid transparent;
+    border-radius: 30px;
+}
+
+.button-cart {
+    display: flex;
+    align-items: center;
+    line-height: 23px;
+    padding: 12px 25px;
+}
+
+.button-cart svg {
+    margin-right: 8px;
+    margin-bottom: 1px;
+}
+
+.button-logIn {
+    padding: 11px 45px;
+}
+
+.delimiter {
+    width: 1px;
+    height: 25px;
+    background-color: hsla(0,0%,100%,.25);
+    margin-left: 14px;
+    margin-right: 14px;
+}
+
+a { 
+    text-decoration: none;
+} 

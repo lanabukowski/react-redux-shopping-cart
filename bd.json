@@ -1,0 +1,99 @@
+{   
+    "products" : {
+        
+            "Salads" : [
+                {
+                    "id" : "1",
+                    "name": "Cesar",
+                    "picture" : "https://moorlandseater.com/wp-content/uploads/2018/12/caesar-salad-moorlands-eater-183714.jpg",
+                    "prices": "15"
+                },
+                {
+                    "id" : "2",
+                    "name": "Greek",
+                    "picture" : "https://thenovicechefblog.com/wp-content/uploads/2020/02/greek-salad-1-sm-720x720.jpg",
+                    "prices": "10"
+                }
+            ]
+        ,
+            "Pizzas" : [
+                {
+                    "id" : "3",
+                    "name": "Margherita",
+                    "picture" : "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/recipe_full_desktop/public/2020-09/margherita-50kalo.jpg?itok=09KbHkNy",
+                    "prices": "10"
+                },
+                {   
+                    "id" : "4",
+                    "name": "Capricciosa",
+                    "picture" : "https://image.freepik.com/free-photo/close-up-of-italian-pizza-capricciosa_106885-612.jpg",
+                    "prices": "15"
+                },
+                {
+                    "id" : "5",
+                    "name": "Diabola",
+                    "picture" : "https://thumbs.dreamstime.com/b/pepperoni-%D0%B8%D0%BB%D0%B8-%D0%BF%D0%B8%D1%86%D1%86%D0%B0-diabola-%D1%81-%D1%81%D0%B0%D0%BB%D1%8F%D0%BC%D0%B8-%D0%BF%D0%B5%D1%80%D1%86%D0%B5%D0%BC-chili-%D1%81%D1%8B%D1%80%D0%BE%D0%BC-%D0%BC%D0%BE%D1%86%D1%86%D0%B0%D1%80%D0%B5%D0%BB%D0%BB%D1%8B-%D1%81%D0%B2%D0%B5%D0%B6%D0%B8%D0%BC-ruccola-155549104.jpg",
+                    "prices": "15"
+                },
+                {
+                    "id" : "6",
+                    "name": "Ai frutti di mare",
+                    "picture" : "https://www.multicash.it/pub/media/blog/pizza-ai-frutti-di-mare-con-moscardini.jpg",
+                    "prices": "20"
+                },
+                {
+                    "id" : "7",
+                    "name": "Hawaii",
+                    "picture" : "https://d2z58dca51ori0.cloudfront.net/2c8c9ecd-d551-4a72-8b50-ead3065a3169.png",
+                    "prices": "15"
+                },
+                {
+                    "id" : "8",
+                    "name": "Ai quattro formaggi",
+                    "picture" : "https://i0.wp.com/www.piccolericette.net/piccolericette/wp-content/uploads/2017/06/3234_Pizza.jpg?resize=895%2C616&ssl=1",
+                    "prices": "10"
+                }
+            ]
+        ,
+        
+            "Drinks" : [
+                {
+                    "id" : "9",
+                    "name": "Coca Cola",
+                    "picture" : "https://foodhouse-brd.com/images/product/l/13749171.jpg",
+                    "prices": "5"
+                },
+                {
+                    "id" : "10",
+                    "name": "Evian",
+                    "picture" : "https://www.aquamaestro.com/media/catalog/product/cache/1/thumbnail/600x/392951836ea6af3c714f2ef54dab1abc/e/v/evian-500-ml-still-pet-800x1084_2.jpg",
+                    "prices": "5"
+                }
+            ]
+        ,
+        
+            "Snacks & Sides" : [
+                {
+                    "id" : "11",
+                    "name": "Nuggets",
+                    "picture" : "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/9D900DB3-435D-4AE4-9375-B152D2813750/Derivates/199C60FC-C264-43A3-B822-88AA5E50E954.jpg",
+                    "prices": "20"
+                },
+                {
+                    "id" : "12",
+                    "name": "Buffalo wing",
+                    "picture" : "https://d1uz88p17r663j.cloudfront.net/resized/1a69f85aabec474eb02d4c875c0de560_iStock-835903320_744_419.jpg",
+                    "prices": "20"
+                },
+                {
+                    "id" : "13",
+                    "name": "Garlic Parmesan Baked Potato",
+                    "picture" : "https://healthyfitnessmeals.com/wp-content/uploads/2020/05/instagram-In-Stream_Square___Baked-potato-wedges-4.jpg",
+                    "prices": "10"
+                }
+            ]
+        
+        }
+}
+
+

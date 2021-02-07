@@ -1,0 +1,28 @@
+.productItemWrapper {
+    display: block;
+    width: 300px;
+    max-width: 300px;
+    font-size: 18px;
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 25px;
+    padding: 5px;
+    text-align: center;
+}
+
+.productItemWrapper:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+img {
+    border-radius: 5px;
+}
+
+.button-bag {
+    padding: 5px 8px;
+    font-weight: bold;
+}
+
+.button-bag:hover {
+    background: #06a8d3;
+}

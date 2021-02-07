@@ -1,0 +1,22 @@
+body {
+    background-color: #F6F6F6;
+}
+
+ul {
+    padding: 0px;
+}
+
+li {
+    list-style-type: none;
+    margin: 10px;
+}
+
+.productsWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.categoryTitle {
+    text-align: center;
+}
